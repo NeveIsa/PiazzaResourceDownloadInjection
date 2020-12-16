@@ -1,6 +1,6 @@
 # PiazzaResourceDownloadInjection
 
-The injection is created to download 100+ pdfs at the end of the course USC-EE510 Linear Algebra December 2020.
+The injection was created to download 100+ pdfs at the end of the course USC-EE510 Linear Algebra December 2020.
 It was frustating to click save as and then get prompted again and again.
 
 Better solutions exist. Some browsers allow the save as prompt to be suppressed. 
