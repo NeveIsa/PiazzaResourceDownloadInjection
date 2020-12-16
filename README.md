@@ -1,10 +1,10 @@
 # PiazzaResourceDownloadInjection
 
-The injection was created to download 100+ pdfs at the end of the course USC-EE510 Linear Algebra December 2020.
+The injection was created to download 100+ pdfs at the end of the course USC-EE510 Linear Algebra, December 2020.
 It was frustating to click save as and then get prompted again and again.
 
 Better solutions exist. Some browsers allow the save as prompt to be suppressed. 
-Firefox and Chrome might allow new download prompts to be suppressed but not save as prompts (I beleive, might be wrong).
+Firefox and Chrome might allow new download prompts to be suppressed but not save as prompts (I believe, might be wrong).
 The script was created in an hour or so to mitigate the frustration.
 
 Inject this script to download with one click all resource files under resources in Piazza.com. Use any js injector plugin.
